@@ -1,0 +1,14 @@
+{
+  "bad-apple": {
+    "frames": 1745,
+    "file-name": "plugins/NekoPlayer/bad-apple/${frame}.txt",
+    "black-bit": "0",
+    "white-bit": "1"
+  },
+  "bad-apple-mini": {
+    "frames": 2193,
+    "file-name": "plugins/NekoPlayer/bad-apple-mini/pic_${frame}.jpg.txt",
+    "black-bit": "1",
+    "white-bit": " "
+  }
+}

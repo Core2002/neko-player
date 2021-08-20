@@ -1,0 +1,11 @@
+name: NekoPlayer
+version: @version@
+api-version: 1.16
+main: fun.fifu.nekoplayer.NekoPlayer
+author: NekokeCore
+description: NekoPlayer.
+website: https://www.fifu.fun
+commands:
+  neko_play:
+    description: "播放"
+    usage: /neko_play
